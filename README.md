@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Clone do Facebook Móvel - Feito com ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Para esse projeto eu usei o [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Para visualizar os scripts
 
-In the project directory, you can run:
+Na pasta do projeto, corra o código:
 
 ### `npm start`
 

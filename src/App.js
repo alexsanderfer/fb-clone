@@ -11,6 +11,7 @@ function App() {
 			<Header/>
 			<Stories/>
 			<Feed/>
+			
 			<Footer/>
 		</div>
 	);
