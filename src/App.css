@@ -162,3 +162,41 @@ body {
     text-align: center;
     padding-top: 100%;
 }
+
+.feedPostSingle {
+    margin: 20px 0;
+    background-color: white;
+}
+
+.feedPost_profile {
+    padding: 10px;
+}
+
+.feedPost_profile h3 {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 8px 10px;
+}
+
+.feedPost_profile h3 > span {
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.feedPost_profile img {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.feedPost_content img {
+    width: 100%;
+    display: block;
+}
+
+.feedPost_content p {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
