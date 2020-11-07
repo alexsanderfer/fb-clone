@@ -20,6 +20,6 @@ e muito amor <3
 
 Mais adendos e recursos serão implementados, como:
 
--[ ] Darkmode (Modo Escuro) <br/>
+-[x] Darkmode (Modo Escuro) <br/>
 -[ ] Login/Cadastro <br/>
 -[ ] Posts & Upload de Arquivos <br/>
