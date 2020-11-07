@@ -12,7 +12,7 @@ export default function (props) {
 
                 <div className="feedPost_content">
                     <p>{props.conteudo}</p>
-                    <img src="https://scontent.flis9-1.fna.fbcdn.net/v/t1.0-9/124010810_171091051325599_5895172260957000872_n.jpg?_nc_cat=104&ccb=2&_nc_sid=825194&_nc_ohc=oUeZEgdIW1AAX8IiG8C&_nc_ht=scontent.flis9-1.fna&oh=04094e0b6a889a158b820a7b29bbd46a&oe=5FCD5623" alt=""/>
+                    <img src={props.img} alt=""/>
                 </div>
             </div>
         </div>
