@@ -11,6 +11,7 @@ Na pasta do projeto, corra o código:
 # Este clone foi feito usando as tecnologias
 
 - IntelliJ IDEA - JetBrains
+- Firebase
 - ReactJS
 - CSS3
 - Um pouco de HTML5 :) 
